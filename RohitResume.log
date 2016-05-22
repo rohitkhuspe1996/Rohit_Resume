@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  23 MAY 2016 02:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.5.22)  23 MAY 2016 03:24
 entering extended mode
 **./RohitResume.tex
 (RohitResume.tex
@@ -81,7 +81,7 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 LaTeX Warning: Unused global option(s):
     [a4paper].
 
-No file RohitResume.aux.
+(RohitResume.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
@@ -120,7 +120,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ! Misplaced \noalign.
 \hline ->\noalign 
                   {\ifnum 0=`}\fi \hrule \@height \arrayrulewidth \futurelet...
-l.21 	\hline
+l.22 	\hline
             
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
@@ -129,21 +129,22 @@ an alignment. Proceed, and I'll ignore this case.
 
 {C:/Users/khuspe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ) 
 Here is how much of TeX's memory you used:
- 1196 strings out of 493634
- 16008 string characters out of 3134831
- 68763 words of memory out of 3000000
- 4626 multiletter control sequences out of 15000+200000
- 6683 words of font info for 24 fonts, out of 3000000 for 9000
+ 1201 strings out of 493634
+ 16079 string characters out of 3134831
+ 69763 words of memory out of 3000000
+ 4629 multiletter control sequences out of 15000+200000
+ 7288 words of font info for 26 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
  29i,4n,19p,241b,143s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users
 /khuspe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
 .pfb><C:/Users/khuspe/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmmi8.pfb><C:/Users/khuspe/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr12.pfb>
-Output written on RohitResume.pdf (1 page, 33934 bytes).
+1/public/amsfonts/cm/cmr10.pfb><C:/Users/khuspe/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on RohitResume.pdf (1 page, 51723 bytes).
 PDF statistics:
- 18 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
